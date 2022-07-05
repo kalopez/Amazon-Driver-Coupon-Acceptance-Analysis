@@ -10,3 +10,4 @@ The following observations were made:
 2. There seems to be a negative correlation between age and acceptance rate, with older age groups less likely to accept the coupon than younger age groups. 
 3. For bar coupons, drivers who go to bars more than once a month are more likely to accept bar coupons than drivers who went less than once a month or never. 
 4. Drivers who go to cheap restaurants more than 8 times a month and have less than 50K in income also accepted more often bar coupons.
+5. As temperature increases, coupon acceptance rate increases. 
